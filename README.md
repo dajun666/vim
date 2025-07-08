@@ -1,6 +1,6 @@
 # Dajun666's vim profile
 
-1. Install vim
+1. Install vim, nodejs, npm by using package manager
 
 2. Install vim plugin manager
 ```bash
